@@ -12,10 +12,10 @@ html, body {
 	color: #FFFFFF;
 }
 .navbar .nav .active>a,.navbar .nav .active>a:hover{
-	background-color: #79973F;
+	background-color:#333333;
 }
 .navbar-inner{
-	background-color: #FFA812;
+	background-color: #79973F;
 }
 
 .container > footer {
